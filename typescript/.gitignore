@@ -1,0 +1,6 @@
+# Files and directories created by pub.
+dist
+node_modules
+
+# Conventional directory for build output.
+build/
