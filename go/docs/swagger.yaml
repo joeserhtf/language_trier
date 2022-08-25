@@ -1,0 +1,16 @@
+info:
+  contact: {}
+  title: Trying Go API
+paths:
+  /ping:
+    get:
+      description: Responds pong
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      summary: Get check API Response
+      tags:
+      - ping
+swagger: "2.0"
